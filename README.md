@@ -612,3 +612,9 @@ ARP poisoning manipulates IP-to-MAC address mappings inside a local Layer-2 netw
 
 The HTTP test shows that clear-text credentials can be captured during MITM. The HTTPS test shows that even when ARP spoofing succeeds, encrypted application data remains protected from simple packet inspection.
 
+## Video Link
+
+A complete video demonstration of the use case is available at https://drive.google.com/file/d/1mfaYlMecEtrO2V95H2eRr6WmGGBZcA7s/view?usp=drive_link
+
+Login with IITJ id to view.
+
